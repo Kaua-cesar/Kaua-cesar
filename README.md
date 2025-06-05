@@ -1,5 +1,5 @@
 <h1>🙋Sobre Mim</h1>
-<h4>Olá, eu sou o Kauã Cesar, tenho 19 anos e atualmnete sou estudante de Analise e desenvolvimento de sistemas. Atualmente estudando Full Stack, c React e Node.js/Express</h4>
+<h4>Olá, eu sou o Kauã Cesar, tenho 19 anos e atualmnete sou estudante de Analise e desenvolvimento de sistemas. Atualmente estudando Full Stack, com React, Node.js/Express & Python</h4>
 
 
 <h3>👨‍💻Tecnologias e Ferramentas:</h3>
